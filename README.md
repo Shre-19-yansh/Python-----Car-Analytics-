@@ -11,7 +11,7 @@ Through data cleaning, EDA, and visualizations, the study reveals which manufact
 
 - README.md – project overview and documentation
 
-- Cars.csv - Contains data on cars, make, and other attributes about car.
+- cars(1).csv - Contains data on cars, make, and other attributes about car.
 
 - Case_Study_Solution – Notebook containing code, EDA, and visualizations along with analysis
 
